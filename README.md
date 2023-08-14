@@ -1,15 +1,15 @@
 # articals
 
-What are articles?
-Articles are words that identify a noun as being specific or unspecific. Consider the following examples:
+# What are articles?
+      Articles are words that identify a noun as being specific or unspecific. Consider the following examples:
 After the long day, the cup of tea tasted particularly good.
 By using the article the, we’ve shown that it was one specific day that was long and one specific cup of tea that tasted good.
 After a long day, a cup of tea tastes particularly good.
 By using the article a, we’ve created a general statement, implying that any cup of tea would taste good after any long day.
 Here’s a tip: Want to make sure your writing shines? Grammarly can check your spelling and save you from grammar and punctuation mistakes. It even proofreads your text, so your work is extra polished wherever you write.
 Your writing, at its best
-Grammarly helps you communicate confidently
-WRITE WITH GRAMMARLY
+      Grammarly helps you communicate confidently
+        WRITE WITH GRAMMARLY
 English has two types of articles: definite and indefinite. Let’s discuss them now in more detail.
 The definite article
 The definite article is the word the. It limits the meaning of a noun to one particular thing. For example, your friend might ask, “Are you going to the party this weekend?” The definite article tells you that your friend is referring to a specific party that both of you already know about. The definite article can be used with singular, plural, or uncountable nouns. Below are some examples of the definite article, the, used in context:
